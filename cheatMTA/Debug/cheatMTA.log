@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\cheatmta\cheatmta\main.h(94): warning C4409: tamanho de instrução inválido
+c:\users\user\source\repos\cheatmta\cheatmta\main.h(192): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  cheatMTA.vcxproj -> C:\Users\USER\source\repos\cheatMTA\Debug\cheatMTA.dll
